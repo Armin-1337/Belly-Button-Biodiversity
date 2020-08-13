@@ -12,5 +12,7 @@ The information for one individual is displayed in the dashboard and is updated 
 1.	HTML
 2.	JavaScript - D3, Plotly
 
+## **[Website *CLICK FOR VISUALIZATION*](https://armin-1337.github.io/Belly-Button-Biodiversity/)**
+
 ## **Screenshot:**
 ![example](Images/html3.png)
